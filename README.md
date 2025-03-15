@@ -1,0 +1,2 @@
+# mainTrabajo final Rocketbot Suite 1 - BotSolutions 
+Robot que se encarga de unificar los proyectos realizados en una misma carpeta y enviarlos vÃ­a correo electronico junto con el CV del desarrollador
