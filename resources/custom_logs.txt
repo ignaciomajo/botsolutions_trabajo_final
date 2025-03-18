@@ -1,25 +1,13 @@
 
-2025-03-16 14:46:35.674505
-Error Timestamp: 2025-03-16 14:46:44.092266
-{'status': 'False', 'message': "[Errno 13] Permission denied: 'C:/Studies/trabajo_final/projects\\\\proyecto_excel'", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '0.006290912628173828'}
-2025-03-16 15:12:31.638474
-2025-03-16 16:43:24.294664
-{timestamp_error}
-{'status': 'False', 'message': "[WinError 183] Cannot create a file when that file already exists: 'C:\\\\Studies\\\\trabajo_final\\\\projects\\\\proyecto_excel\\\\main'", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '0.003167867660522461'}
-2025-03-16 16:45:42.097382
-2025-03-16 16:47:06.263271
-2025-03-16 16:50:32.020729
-Error Timestamp: 2025-03-16 16:50:59.740605
-{'status': 'False', 'message': "(552, b'5.7.0 This message was blocked because its content presents a potential\\n5.7.0 security issue. To review our message content and attachment content\\n5.7.0 guidelines, go to\\n5.7.0  https://support.google.com/mail/?p=BlockedMessage d9443c01a7336-225c6ba6ed6sm61039755ad.151 - gsmtp')", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '19.41719150543213'}
-2025-03-16 17:13:11.752091
-Error Timestamp: 2025-03-16 17:13:20.223222
-{'status': 'False', 'message': "[Errno 13] Permission denied: 'C:/Studies/trabajo_final\\\\projects'", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '0.007894039154052734'}
-2025-03-16 17:29:04.342254
-Error Timestamp: 2025-03-16 17:29:12.926049
-{'status': 'False', 'message': "[Errno 13] Permission denied: 'C:/Studies/trabajo_final\\\\projects'", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '0.008383035659790039'}
-Error Timestamp: 2025-03-16 17:29:18.035496
-{'status': 'False', 'message': "[Errno 13] Permission denied: 'C:/Studies/trabajo_final\\\\projects'", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '0.007478237152099609'}
-Error Timestamp: 2025-03-16 17:30:05.714178
-{'status': 'False', 'message': "[Errno 13] Permission denied: 'C:/Studies/trabajo_final\\\\projects'", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '0.008645057678222656'}
-Error Timestamp: 2025-03-16 17:52:33.477215
-{'status': 'False', 'message': "[Errno 13] Permission denied: 'C:/Users/Public/trabajo_final\\\\projects'", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '0.008448600769042969'}
+2025-03-17 15:31:54.082065
+2025-03-18 10:51:48.965533
+2025-03-18 10:56:59.294041
+Error Timestamp: 2025-03-18 10:57:29.275121
+{'status': 'False', 'message': "(552, b'5.7.0 This message was blocked because its content presents a potential\\n5.7.0 security issue. To review our message content and attachment content\\n5.7.0 guidelines, go to\\n5.7.0  https://support.google.com/mail/?p=BlockedMessage 98e67ed59e1d1-301533e6515sm8137316a91.0 - gsmtp')", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '21.411566019058228'}
+2025-03-18 11:06:48.607664
+Error Timestamp: 2025-03-18 11:07:21.495280
+{'status': 'False', 'message': "(552, b'5.7.0 This message was blocked because its content presents a potential\\n5.7.0 security issue. To review our message content and attachment content\\n5.7.0 guidelines, go to\\n5.7.0  https://support.google.com/mail/?p=BlockedMessage d2e1a72fcca58-7371167e0b1sm9827505b3a.97 - gsmtp')", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '22.266512870788574'}
+2025-03-18 11:20:46.638681
+Error Timestamp: 2025-03-18 11:21:17.338318
+{'status': 'False', 'message': "(552, b'5.7.0 This message was blocked because its content presents a potential\\n5.7.0 security issue. To review our message content and attachment content\\n5.7.0 guidelines, go to\\n5.7.0  https://support.google.com/mail/?p=BlockedMessage d9443c01a7336-225c68a381bsm94574075ad.53 - gsmtp')", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '22.542749166488647'}
+2025-03-18 11:25:14.577761
