@@ -66,7 +66,7 @@ Se comprimen los proyectos y el Curriculum Vitae del desarrollador en un solo ar
 
 ![gmail](https://github.com/user-attachments/assets/67450a06-7ace-4fd6-82c8-1c896950dc7d)
 
-Aqui podemos ver la configuración del servidor de Gmail y su validación. En caso de que esta sea exitosa, se lleva a cabo el envío del correo con el archivo `proyectos.zip`📁 adjunto.
+Aqui podemos ver la configuración del servidor de Gmail y su validación. En caso de que esta sea exitosa, se lleva a cabo el envío del correo con el archivo `entrega_final.zip`📁 adjunto.
 
 
 *Nota: Todas las validaciones tienen captura de error en caso de que algo ocurra, que quedarán registrados en el archivo `custom_logs.txt`📄 que se encuentra en la carpeta **resources**📁 dentro de **main**📁.*
