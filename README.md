@@ -19,14 +19,15 @@
 Para obtener el proyecto tienes dos opciones:
 
 1. Clonar el repositorio utilizando la línea de comandos. Solo debes dirigirte al directorio donde deseas clonar el mismo e ingresar el comando:
-   ``
+   `https://github.com/ignaciomajo/botsolutions_trabajo_final/`
 
 2. O puedes descargarlo directamente desde el repositorio en GitHub en el siguiente enlace:
-   <p><a href=""></p>
+   <p><a href="https://github.com/ignaciomajo/botsolutions_trabajo_final/">https://github.com/ignaciomajo/botsolutions_trabajo_final/</p>
 
    Esto te llevará a la siguiente pantalla, donde deberás seguir los siguientes pasos:
    
-![archivo_zip](https://github.com/user-attachments/assets/230d4fbd-27ac-4def-962e-df816b82ac7b)
+![archivo_zip](https://github.com/user-attachments/assets/f93395f8-fffc-494a-8bc6-206b29bd2d50)
+
 
 Esto descargará un archivo comprimido `.zip`, que podras alojar en el directorio que desees.
 
