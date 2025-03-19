@@ -11,3 +11,36 @@ Error Timestamp: 2025-03-18 11:07:21.495280
 Error Timestamp: 2025-03-18 11:21:17.338318
 {'status': 'False', 'message': "(552, b'5.7.0 This message was blocked because its content presents a potential\\n5.7.0 security issue. To review our message content and attachment content\\n5.7.0 guidelines, go to\\n5.7.0  https://support.google.com/mail/?p=BlockedMessage d9443c01a7336-225c68a381bsm94574075ad.53 - gsmtp')", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '22.542749166488647'}
 2025-03-18 11:25:14.577761
+2025-03-19 13:45:58.212858
+{timestamp_error}
+{'status': 'False', 'message': "[Errno 13] Permission denied: 'False'", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '0.0013022422790527344'}
+Error Timestamp: 2025-03-19 13:46:20.347901
+{'status': 'False', 'message': "[Errno 13] Permission denied: 'False\\\\main'", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '0.009348630905151367'}
+2025-03-19 13:49:24.310686
+{timestamp_error}
+{'status': 'False', 'message': "[Errno 13] Permission denied: 'C:/Studies/trabajo_final/projects'", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '0.014934539794921875'}
+2025-03-19 13:52:13.977555
+2025-03-19 13:55:49.106024
+2025-03-19 13:52:13.977555
+2025-03-19 13:52:13.977555
+2025-03-19 13:52:13.977555
+2025-03-19 13:52:13.977555
+2025-03-19 13:52:13.977555
+{timestamp_error}
+{'status': 'False', 'message': "[Errno 13] Permission denied: 'C:/Studies/trabajo_final/projects'", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '0.0016744136810302734'}
+2025-03-19 13:52:13.977555
+2025-03-19 13:52:13.977555
+2025-03-19 14:23:01.919195
+{timestamp_error}
+{'status': 'False', 'message': "[Errno 2] No such file or directory: ''", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '0.002282857894897461'}
+2025-03-19 14:24:36.954048
+{timestamp_error}
+{'status': 'False', 'message': "[Errno 2] No such file or directory: ''", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '0.0021626949310302734'}
+2025-03-19 14:25:00.519877
+{timestamp_error}
+{'status': 'False', 'message': "[Errno 2] No such file or directory: ''", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '0.0035889148712158203'}
+2025-03-19 14:26:37.910273
+{timestamp_error}
+{'status': 'False', 'message': "[Errno 2] No such file or directory: ''", 'img': '', 'vars': [], 'ifs': [], 'extra': [], 'time': '0.0009734630584716797'}
+2025-03-19 14:27:28.179965
+2025-03-19 14:29:50.590730
